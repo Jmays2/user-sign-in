@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/oogies-tech/static/css/main.50f5a815.chunk.css",
-    "main.js": "/oogies-tech/static/js/main.dedd3c3a.chunk.js",
-    "main.js.map": "/oogies-tech/static/js/main.dedd3c3a.chunk.js.map",
-    "runtime-main.js": "/oogies-tech/static/js/runtime-main.29b73cab.js",
-    "runtime-main.js.map": "/oogies-tech/static/js/runtime-main.29b73cab.js.map",
-    "static/js/2.554ebedc.chunk.js": "/oogies-tech/static/js/2.554ebedc.chunk.js",
-    "static/js/2.554ebedc.chunk.js.map": "/oogies-tech/static/js/2.554ebedc.chunk.js.map",
-    "index.html": "/oogies-tech/index.html",
-    "precache-manifest.b5ac7264f448b0f51025559ce86d50ca.js": "/oogies-tech/precache-manifest.b5ac7264f448b0f51025559ce86d50ca.js",
-    "service-worker.js": "/oogies-tech/service-worker.js",
-    "static/css/main.50f5a815.chunk.css.map": "/oogies-tech/static/css/main.50f5a815.chunk.css.map",
-    "static/js/2.554ebedc.chunk.js.LICENSE.txt": "/oogies-tech/static/js/2.554ebedc.chunk.js.LICENSE.txt",
-    "static/media/company_logo.svg": "/oogies-tech/static/media/company_logo.05bd07e8.svg",
-    "static/media/documents.svg": "/oogies-tech/static/media/documents.de0c5ce5.svg",
-    "static/media/new_logo.svg": "/oogies-tech/static/media/new_logo.05bd07e8.svg",
-    "static/media/secure_login.svg": "/oogies-tech/static/media/secure_login.34480e51.svg"
+    "main.css": "/user-sign-in/static/css/main.50f5a815.chunk.css",
+    "main.js": "/user-sign-in/static/js/main.9d51edbd.chunk.js",
+    "main.js.map": "/user-sign-in/static/js/main.9d51edbd.chunk.js.map",
+    "runtime-main.js": "/user-sign-in/static/js/runtime-main.3926900f.js",
+    "runtime-main.js.map": "/user-sign-in/static/js/runtime-main.3926900f.js.map",
+    "static/js/2.554ebedc.chunk.js": "/user-sign-in/static/js/2.554ebedc.chunk.js",
+    "static/js/2.554ebedc.chunk.js.map": "/user-sign-in/static/js/2.554ebedc.chunk.js.map",
+    "index.html": "/user-sign-in/index.html",
+    "precache-manifest.4635b675290b2100d3dff774ce5bdb01.js": "/user-sign-in/precache-manifest.4635b675290b2100d3dff774ce5bdb01.js",
+    "service-worker.js": "/user-sign-in/service-worker.js",
+    "static/css/main.50f5a815.chunk.css.map": "/user-sign-in/static/css/main.50f5a815.chunk.css.map",
+    "static/js/2.554ebedc.chunk.js.LICENSE.txt": "/user-sign-in/static/js/2.554ebedc.chunk.js.LICENSE.txt",
+    "static/media/company_logo.svg": "/user-sign-in/static/media/company_logo.05bd07e8.svg",
+    "static/media/documents.svg": "/user-sign-in/static/media/documents.de0c5ce5.svg",
+    "static/media/new_logo.svg": "/user-sign-in/static/media/new_logo.05bd07e8.svg",
+    "static/media/secure_login.svg": "/user-sign-in/static/media/secure_login.34480e51.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.29b73cab.js",
+    "static/js/runtime-main.3926900f.js",
     "static/js/2.554ebedc.chunk.js",
     "static/css/main.50f5a815.chunk.css",
-    "static/js/main.dedd3c3a.chunk.js"
+    "static/js/main.9d51edbd.chunk.js"
   ]
 }
